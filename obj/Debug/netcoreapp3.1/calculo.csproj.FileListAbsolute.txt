@@ -1,0 +1,13 @@
+C:\Servidor\Web\c#\calculo\bin\Debug\netcoreapp3.1\calculo.exe
+C:\Servidor\Web\c#\calculo\bin\Debug\netcoreapp3.1\calculo.deps.json
+C:\Servidor\Web\c#\calculo\bin\Debug\netcoreapp3.1\calculo.runtimeconfig.json
+C:\Servidor\Web\c#\calculo\bin\Debug\netcoreapp3.1\calculo.runtimeconfig.dev.json
+C:\Servidor\Web\c#\calculo\bin\Debug\netcoreapp3.1\calculo.dll
+C:\Servidor\Web\c#\calculo\bin\Debug\netcoreapp3.1\calculo.pdb
+C:\Servidor\Web\c#\calculo\obj\Debug\netcoreapp3.1\calculo.csprojAssemblyReference.cache
+C:\Servidor\Web\c#\calculo\obj\Debug\netcoreapp3.1\calculo.AssemblyInfoInputs.cache
+C:\Servidor\Web\c#\calculo\obj\Debug\netcoreapp3.1\calculo.AssemblyInfo.cs
+C:\Servidor\Web\c#\calculo\obj\Debug\netcoreapp3.1\calculo.csproj.CoreCompileInputs.cache
+C:\Servidor\Web\c#\calculo\obj\Debug\netcoreapp3.1\calculo.dll
+C:\Servidor\Web\c#\calculo\obj\Debug\netcoreapp3.1\calculo.pdb
+C:\Servidor\Web\c#\calculo\obj\Debug\netcoreapp3.1\calculo.genruntimeconfig.cache
